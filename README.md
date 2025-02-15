@@ -1,4 +1,4 @@
-# Hello, I'm Ghassen Rafraf - Engineer 👋
+# Hello, I'm Ghassen Rafraf 👋
 
 Welcome to my GitHub portfolio! I'm a dedicated engineer passionate about creating innovative and efficient solutions that solve real-world challenges through robust design and code.
 
