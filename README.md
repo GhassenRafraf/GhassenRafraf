@@ -17,8 +17,7 @@ Explore my repositories to see examples of my work!
 ## Skills
 **Programming Languages**:  C, C++, Embedded C, Python, VHDL \
 **Platforms and Hardware**: STM32, PIC16F, ESP32, Raspberry Pi \
-**Operating Systems and Frameworks**: Yocto Project, ROS2, FreeRTOS, Linux \
-**Communication Protocol**s: MQTT, Modbus, RS232, RS485, SPI, I2C, UART, CAN \
-**Hardware Design**: FPGAs, PCB Design, Proteus ISIS, Altium Designer 
+**Operating Systems and Frameworks**: Yocto Project, ROS2, FreeRTOS, Linux, ESP-IDF \
+**Communication Protocol**s: MQTT, SPI, I2C, UART, CAN \
 
 Thanks for stopping by! If you'd like to connect or collaborate on innovative engineering projects, feel free to reach out.
