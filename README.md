@@ -1,23 +1,27 @@
 # Hello, I'm Ghassen Rafraf 👋
 
-Welcome to my GitHub portfolio! I'm a dedicated engineer passionate about creating innovative and efficient solutions that solve real-world challenges through robust design and code.
+**Embedded Systems Engineer** passionate about developing innovative solutions for autonomous systems, IoT applications, and real-time embedded software.
 
 ## About Me
 
-I’m an engineer with a strong foundation in problem solving, system design, and optimization. Whether it's developing new technologies or refining existing systems, I thrive on turning complex challenges into elegant solutions. My work spans various projects, and I'm always eager to learn and adopt new technologies to push the boundaries of what's possible.
+I'm an Electronics with hands-on experience in embedded systems development. I specialize in creating robust, real-time systems that bridge hardware and software to solve complex engineering challenges.
 
-- 🔭 I’m currently working on a series of projects centered around building custom ECUs for electric vehicles
-- 🌱 I’m continuously learning new and cutting edge technologies 
-- 📫 How to reach me: grafraf08@gmail.com
+- 🔭 Currently working on **Battery Management Systems** and **IoT-enabled tracking solutions**
+- 🛰️ Experience with **GPS-denied navigation** and **multi-sensor fusion** for UAVs
+- 🌱 Continuously exploring **Low power solutions** and **real-time optimization**
+- 📫 Reach me at: **grafraf08@gmail.com**
 
-## Projects
+## Technical Expertise
 
-Explore my repositories to see examples of my work!
+**Programming**: C/C++, Embedded C, Python, VHDL  
+**Hardware Platforms**: STM32, ESP32, Raspberry Pi, Nvidia Jetson Nano  
+**Real-Time Systems**: FreeRTOS, ROS2, Linux  
+**Communication**: CAN, BLE, MQTT, SPI, I2C, UART  
+**Specializations**: Kalman Filtering, Sensor Fusion, Power Optimization, Safety Systems
 
-## Skills
-**Programming Languages**:  C, C++, Embedded C, Python, VHDL \
-**Platforms and Hardware**: STM32, PIC16F, ESP32, Raspberry Pi \
-**Operating Systems and Frameworks**: Yocto Project, ROS2, FreeRTOS, Linux, ESP-IDF \
-**Communication Protocol**s: MQTT, SPI, I2C, UART, CAN \
+## Let's Connect
 
-Thanks for stopping by! If you'd like to connect or collaborate on innovative engineering projects, feel free to reach out.
+Interested in collaborating on embedded systems, autonomous vehicles, or IoT projects? Feel free to explore my repositories or reach out directly!
+
+---
+*Building the future, one embedded system at a time* ⚡
